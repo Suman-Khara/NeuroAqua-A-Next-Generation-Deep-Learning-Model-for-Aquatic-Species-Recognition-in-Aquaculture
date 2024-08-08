@@ -1,3 +1,5 @@
+## **NeuroAqua: A Next-Generation Deep Learning Model for Aquatic Species Recognition in Aquaculture**
+
 ---
 
 #### **Project Overview**
