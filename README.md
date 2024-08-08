@@ -24,6 +24,8 @@ The final goal is to prepare this project for research paper publication, demons
 4. **Deployment**
    - The FishDetect Model was deployed on a Raspberry Pi 4, making it capable of real-time fish detection and segmentation.
 
+![Workflow]([https://github.com/yourusername/yourrepository/raw/main/images/diagram.png](https://raw.githubusercontent.com/Suman-Khara/NeuroAqua-Deep-Learning-in-Aquaculture/main/workflow.jpeg))
+
 ---
 
 #### **Accuracy Metrics**
